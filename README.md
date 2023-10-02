@@ -7,4 +7,14 @@ Getting a job is simple. Go to the blip on the map, and start the job. This is o
 ## Current Jobs
 * Miner
 * Taxi
-* Police (WIP NOT READY FOR PRODUCTION)
+
+  ## Future Jobs
+* Police (Started but not finished)
+* EMS
+* Mechanic
+* Possibly Drug dealer but this would be less of an assigned job and more a roleplaying job
+
+## Dependencies
+* MP Framework
+* Ox Inventory
+* Ox Lib
