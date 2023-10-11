@@ -2,7 +2,9 @@ fx_version 'cerulean'
 games { 'gta5' }
 lua54 'yes'
 
-Dependency 'Rocks'
+author 'Jax Danger'
+description 'Jobs system for the MP Framework'
+
 
 shared_script '@ox_lib/init.lua'
 
@@ -15,7 +17,7 @@ server_scripts {
     -- Add item(s) to miner's inventory
     'miner/sv_miner.lua',
     -- Police Actions
-    'police/server.lua',
+    --'police/cuffs/sv_cuff.lua',
     -- adding more later
 }
 client_scripts {
@@ -32,6 +34,8 @@ client_scripts {
     -- Miner Job
     'miner/cl_miner.lua',
     -- Police Job
-    'police/cl_police.lua',
+    --'police/cuffs/cl_cuff.lua',
     -- adding more later
 }
+
+escrow_ignore 'blips/blips_config.lua'
