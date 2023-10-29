@@ -27,7 +27,7 @@ Getting a job is simple. Go to the blip on the map, and start the job. This is o
 
 ## Support
 Support is available for all my scripts in my discord:
-discord.gg/GZVTe2WNeF
+https://discord.gg/GZVTe2WNeF
 
 If you want to get Framework related support, join the Main Power discord:
 https://discord.gg/bJGNV3FJac
