@@ -1,6 +1,5 @@
 # Disclaimer
-Script needs an update. Not recommended to use script until the update is complete.
-View MP-Framework for more information: https://github.com/99JSP/MainPower
+Script is no longer supported. A new and better version is coming soon and this script is now **DEPRECATED**.
 
 # MP-Jobs
 This script is a jobs script for the MP-Framework. 
